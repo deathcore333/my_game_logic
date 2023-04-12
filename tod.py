@@ -4,6 +4,8 @@ import argparse
 from random import choice
 
 
+''' Feel free to change the list of truths and dares to fit your game '''
+
 dare_list = [
     'Give a lap dance to the person sitting next to you',
     'Remove an item of clothing and wear it for the rest of the game',
